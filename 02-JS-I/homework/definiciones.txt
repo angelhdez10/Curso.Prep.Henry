@@ -1,0 +1,13 @@
+* Variables: Es un lugar donde podemos asignar un valor que nosotros queramos guardar para despues poder acceder a ella cuando se requiera.
+
+* Strings: Es el texto que se quiere guardar como tal en una variable.
+
+* Funciones (argumentos, `return`): Las funciones son un bloque de codigo que podemos usar para cuando se requiere repetir una serie de instrucciones varias veces
+y así nos facilite o reduzca el código que se tenga que escribir, estas pueden llevar argumentos, que son los parámetros que mandamos a la función para que se ejecuten las instrucciones con esos valores donde se usen esas variables, y estos solo existen dentro de la función.
+La función return, como su nombre lo dice, nos regresa al final un valor que nosotros le indiquemos y al ser ejecutada la función esta tomará ese valor en el código principal.
+
+* Declaraciones `if`: Los 'if' nos sirven para validar una condición que nosotros queramos comparar, esta función nos devolverá un valor de cierto o falso, si se cumple la condición se ejecutará el código dentro de las llaves que tiene la función if, pero si da falso, no ejecutará las lineas de código que encierran las llaves de la condición, independientemente si se cumple o no la condición, las lineas por debajo del if.
+
+* Valores booleanos (`true`, `false`): Los valores booleanos solo pueden tener 2 opciones, TRUE o FALSE, donde nos puede indicar si una condición es verdadera o falsa, o donde nos puede ayudar a activar o desactivar algo dependiendo del valor que tenga una variable booleana.
+
+
