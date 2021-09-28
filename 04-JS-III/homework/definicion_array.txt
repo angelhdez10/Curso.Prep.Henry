@@ -1,0 +1,1 @@
+Array: Un arreglo es como un conjunto de variables guardadas con el mismo nombre pero con diferente indice para diferenciarlas y poder acceder a estas. 
