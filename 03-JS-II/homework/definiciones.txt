@@ -1,0 +1,7 @@
+FOR: Es un ciclo en el cual, repite un bloque de lineas de código mientras la condición siga siendo verdadera,
+se usa cuando realmente se sabe las veces que se tiene que hacer, o cuando se sabe cuando o en que punto parar de ejecutar esas líneas.
+
+'&&','||','!': Los operadores lógicos sirven para comparar lógicamente 2 valores o más, esto quiere decir que el resultado solo podrá variar entre verdadero o falso,
+el operador lógico "&" o "and" es usado para cuando queramos que unicamente sea verdadero cuando los objetos comparados son iguales,
+el operador lógico "|" o "or" es usado cuando queremos que sea verdadero unicamente cuando uno de los 2 objetos comparados sea verdadero,
+y el operador "!" o "not" es para cambiar el estado lógico del objeto, o sea si es verdadero, nos devuelve falso y viceversa. 
