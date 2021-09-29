@@ -1,0 +1,9 @@
+*Objetos: Un objeto, es como un arreglo, donde el indice para encontrar un valor está dado no solo por numeros, si no por una etiqueta para poder acceder más rápido sin importar en el orden que se ponga dentro del objeto.
+
+*Propiedades: Las propiedades dentro del objeto es la palabra clave con la cual se identifica el valor que se le de en esa propiedad al objeto.
+
+*Métodos: El método es una función dentro de un objeto, con la cual se accede al igual que en un arreglo.
+
+*Bucle for..in: Es una instrucción que se puede aplicar en las propiedades que son enumerables, para así recorrer el objeto pero dentro de esa propiedad.
+
+*Notación de puntos vs notación de corchetes: La notación de puntos es mucho más cómoda ya que solo debemos de apuntar a la propiedad que queremos extraer su valor, en cambio con la notación de corchetes, se debe de hacer como si fuera un indice, por lo tanto al momento de buscar dentro de un objeto que tiene varios arreglos dentro de una propiedad, podría ser muy confuso al usar la notación de corchetes.
