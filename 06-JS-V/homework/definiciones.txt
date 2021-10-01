@@ -1,0 +1,3 @@
+'prototype': El prototipo de un objeto es aquel espacio donde se pueden almacenar las funciones que se comparten entre objetos para tener solo un espacio en el cual todos los objetos puedan referir y sacar la función en cuestion para así reducir la repetición de código dentro de el objeto.
+	
+_constructors_: Un constructor es el método que crea un objeto en base a una clase.
