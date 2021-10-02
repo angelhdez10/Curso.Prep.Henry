@@ -1,0 +1,1 @@
+*Callbacks: Se le llama callback a una función que lleva como parametro a otra función.
