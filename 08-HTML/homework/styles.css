@@ -1,0 +1,35 @@
+.divClass{
+	background-color: dimgray;
+	margin: 0 auto;
+	
+
+}
+
+#thirdDiv{
+	margin: 0 auto;
+	height: 600px; 
+	width: 500px; 
+	background-color: darkgray; 
+	padding: 50px;
+	border-color: darkred; 
+	border-style: dotted;
+	align-items: 0 auto;
+}
+
+#spanId{
+	font-size: 18px; 
+	margin: 50px;
+	text-align: center;
+}
+
+h1 {
+	color: red;
+	text-align: center;
+}
+
+body{
+	background-image: url(https://elordenmundial.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2017/01/ESPACIO-1024x640.jpg.webp);
+	display: flex;
+	flex-flow: column wrap;
+	justify-content: center;
+}
